@@ -7,6 +7,15 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.keywords {
+    color:#cccccc;
+    font-size:1px;
+}
+
+.keywords2 {
+    color:#F3976C;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -297,7 +306,6 @@ a:hover {
     padding: 3px 15px;
     font-size: 25px;
     font-weight: normal;
-    font-weight: 600;
     line-height: 44px;
 }
 
