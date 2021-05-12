@@ -1048,3 +1048,28 @@ h4 {
         text-align: center;
     }
 }
+
+
+p.modif1 {
+    color: #957272;
+    font-size: 22px;
+    margin: auto;
+}
+
+p.modif2 {
+    color: #6e6164;
+    font-size: 19px;
+    margin: auto;
+    font-style: italic;
+}
+
+cite.modif3 {
+    font-style: normal;
+    font-weight: 500;
+}
+
+p.modif4 {
+    color: #957272;
+    font-size: 22px;
+    margin: auto;
+}
