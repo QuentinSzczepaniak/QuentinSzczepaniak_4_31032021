@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6721de18-2000-4448-b434-204a087945a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
       <workItem from="1619514054689" duration="1226000" />
       <workItem from="1619797618081" duration="5383000" />
       <workItem from="1620400320816" duration="10000" />
-      <workItem from="1620812930376" duration="1949000" />
+      <workItem from="1620812930376" duration="2670000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1619449668769</created>
@@ -67,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619453551369</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- modification img en texte">
+      <created>1620814950844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620814950844</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="-suppression propriété &quot;font-weight:600&quot; ligne 300 style.css&#10;-suppression lien inutilisable en bas de page index.html&#10;-suppression des termes répétés dans la balise meta keywords&#10;-transfert des style=&quot;color:#...&quot; de l'index.html vers le style.css keywords ligne 40, 42, 247&#10;-ajout de balise section pour remplacer les div&#10;-suppresion des balises &lt;li&gt; vides index.html ligne 59,60 page2 ligne 50,51&#10;-suppression du lien a.social qui sont invisibles ligne 138, 160" />
-    <option name="LAST_COMMIT_MESSAGE" value="-suppression propriété &quot;font-weight:600&quot; ligne 300 style.css&#10;-suppression lien inutilisable en bas de page index.html&#10;-suppression des termes répétés dans la balise meta keywords&#10;-transfert des style=&quot;color:#...&quot; de l'index.html vers le style.css keywords ligne 40, 42, 247&#10;-ajout de balise section pour remplacer les div&#10;-suppresion des balises &lt;li&gt; vides index.html ligne 59,60 page2 ligne 50,51&#10;-suppression du lien a.social qui sont invisibles ligne 138, 160" />
+    <MESSAGE value="- modification img en texte" />
+    <option name="LAST_COMMIT_MESSAGE" value="- modification img en texte" />
   </component>
 </project>
