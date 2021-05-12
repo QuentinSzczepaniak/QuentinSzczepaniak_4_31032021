@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6721de18-2000-4448-b434-204a087945a8" name="Default Changelist" comment="-suppression propriete css erronée" />
+    <list default="true" id="6721de18-2000-4448-b434-204a087945a8" name="Default Changelist" comment="derniers modif">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +45,7 @@
       <workItem from="1619514054689" duration="1226000" />
       <workItem from="1619797618081" duration="5383000" />
       <workItem from="1620400320816" duration="10000" />
-      <workItem from="1620812930376" duration="7593000" />
+      <workItem from="1620812930376" duration="9612000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1619449668769</created>
@@ -93,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620822035316</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="derniers modif">
+      <created>1620822221711</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620822221711</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +127,7 @@
     <MESSAGE value="- modification img en texte" />
     <MESSAGE value="- modification img en texte&#10;-suppression liens bas de page inutiles&#10;-ajout d'un title&#10;-suppression des balise div (keyword)&#10;-ajout sd'un meta description&#10;-modification background contraste ligne 782 ligne 790&#10;-modification bouton nav page 2" />
     <MESSAGE value="-suppression propriete css erronée" />
-    <option name="LAST_COMMIT_MESSAGE" value="-suppression propriete css erronée" />
+    <MESSAGE value="derniers modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="derniers modif" />
   </component>
 </project>
