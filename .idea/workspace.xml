@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6721de18-2000-4448-b434-204a087945a8" name="Default Changelist" comment="derniers modif">
+    <list default="true" id="6721de18-2000-4448-b434-204a087945a8" name="Default Changelist" comment="-modification titre page2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/citation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dots-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image-de-presentation.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence-banniere.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/la-chouette-agence.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lines-h2-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/texture-paper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +59,9 @@
       <workItem from="1619514054689" duration="1226000" />
       <workItem from="1619797618081" duration="5383000" />
       <workItem from="1620400320816" duration="10000" />
-      <workItem from="1620812930376" duration="9612000" />
+      <workItem from="1620812930376" duration="10240000" />
+      <workItem from="1621005823049" duration="82000" />
+      <workItem from="1621006312686" duration="375000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1619449668769</created>
@@ -103,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620822221711</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="-modification titre page2">
+      <created>1620828977032</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620828977032</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +151,7 @@
     <MESSAGE value="- modification img en texte&#10;-suppression liens bas de page inutiles&#10;-ajout d'un title&#10;-suppression des balise div (keyword)&#10;-ajout sd'un meta description&#10;-modification background contraste ligne 782 ligne 790&#10;-modification bouton nav page 2" />
     <MESSAGE value="-suppression propriete css erronée" />
     <MESSAGE value="derniers modif" />
-    <option name="LAST_COMMIT_MESSAGE" value="derniers modif" />
+    <MESSAGE value="-modification titre page2" />
+    <option name="LAST_COMMIT_MESSAGE" value="-modification titre page2" />
   </component>
 </project>
